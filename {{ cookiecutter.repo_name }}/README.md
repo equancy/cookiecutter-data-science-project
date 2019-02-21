@@ -33,8 +33,7 @@ Project Organization
     │   ├── config         <- YAML files with dependancies between tasks, data catalog and others.
     │   ├── pipelines      <- sklearn & pyspark pipelines.
     │   ├── tasks          <- Luigi tasks.
-    │   ├── scripts        <- Functions used by Luigi tasks.
-    │   └── working        <- Working, intermediate data that has been transformed.
+    │   └── scripts        <- Functions used by Luigi tasks.
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
