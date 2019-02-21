@@ -53,14 +53,13 @@ The directory structure of your new project looks like this:
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+│                         `1.0-rvm-initial-data-exploration`.
 │
 ├── production
 │   ├── config         <- YAML files with dependancies between tasks, data catalog and others.
 │   ├── pipelines      <- sklearn & pyspark pipelines.
 │   ├── tasks          <- Luigi tasks.
-│   ├── scripts        <- Functions used by Luigi tasks.
-│   └── working        <- Working, intermediate data that has been transformed.
+│   └── scripts        <- Functions used by Luigi tasks.
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
