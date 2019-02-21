@@ -102,4 +102,4 @@ The directory structure of your new project looks like this:
 
 ## Inspiration
 
-    From [DrivenData](https://drivendata.github.io/cookiecutter-data-science).
+From [DrivenData](https://drivendata.github.io/cookiecutter-data-science).
