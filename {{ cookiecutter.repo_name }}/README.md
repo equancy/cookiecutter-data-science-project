@@ -67,4 +67,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://git.equancy.io/cookiecutter-data-science-project/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="http://git.equancy.io/tools/cookiecutter-data-science-project/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
