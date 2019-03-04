@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter http://git.equancy.cloud/tools/cookiecutter-data-science-project
+    cookiecutter http://github.com/equancy/cookiecutter-data-science-project
 
 
 ### The resulting directory structure
